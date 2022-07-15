@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ROOTs</string>
+    <string name="titleVolunteer">Volunteer SignUp</string>
+    <string name="titleTeamMember">Team Memeber SignUp</string>
+    <string name="Volunteer">Volunteer</string>
+    <string name="Team_Memeber">Team Member</string>
+    <string name="Male">Male</string>
+    <string name="Female">Female</string>
+    <string name="other">Other</string>
+</resources>
